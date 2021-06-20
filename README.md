@@ -14,3 +14,9 @@ insert into memos (comment) values ('comment1');
 cargo build
 cargo run
 ```
+
+```
+Displaying 1 memos
+id | comment
+1 | comment1
+```
